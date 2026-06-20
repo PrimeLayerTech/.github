@@ -84,10 +84,10 @@ Have a project, a product idea, or a problem worth solving?
 
 ### Let's build it. ⚡
 
+[![Website](https://img.shields.io/badge/Website-primelayer.tech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://primelayer.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-PrimeLayerTech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrimeLayerTech)
-<!-- 👇 Add your real links when ready, then delete this comment:
-[![Website](https://img.shields.io/badge/Website-primelayertech.com-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE-HERE)
-[![Email](https://img.shields.io/badge/Email-hello@primelayertech.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+<!-- 👇 Add your email when ready, then delete this comment:
+[![Email](https://img.shields.io/badge/Email-hello@primelayer.tech-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 -->
 
 <br/>
