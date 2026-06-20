@@ -1,0 +1,42 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PrimeLayerTech — Consulting, Products, Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6D28D9"/>
+      <stop offset="0.52" stop-color="#DB2777"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#sheen)"/>
+
+  <!-- decorative blurred glow -->
+  <circle cx="1110" cy="70" r="150" fill="#ffffff" opacity="0.13" filter="url(#soft)"/>
+  <circle cx="150" cy="330" r="170" fill="#ffffff" opacity="0.10" filter="url(#soft)"/>
+
+  <!-- layered monogram (stacked rounded squares = "layers") -->
+  <g transform="translate(960,96)">
+    <rect x="44" y="44" width="156" height="156" rx="30" fill="#ffffff" opacity="0.18"/>
+    <rect x="22" y="22" width="156" height="156" rx="30" fill="#ffffff" opacity="0.30"/>
+    <rect x="0"  y="0"  width="156" height="156" rx="30" fill="#ffffff"/>
+    <text x="78" y="104" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#7C3AED" text-anchor="middle">P</text>
+  </g>
+
+  <!-- wordmark -->
+  <text x="90" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#ffffff" letter-spacing="-1">PrimeLayerTech</text>
+  <text x="94" y="224" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#ffffff" opacity="0.94">Consulting&#160;&#160;·&#160;&#160;Products&#160;&#160;·&#160;&#160;Engineering</text>
+
+  <!-- tagline pill -->
+  <g transform="translate(94,258)">
+    <rect width="476" height="46" rx="23" fill="#000000" opacity="0.22"/>
+    <text x="24" y="30" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">From idea to shipped — software that works.</text>
+  </g>
+</svg>
