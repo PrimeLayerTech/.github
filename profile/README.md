@@ -14,13 +14,13 @@
 **PrimeLayer** builds bespoke software systems in **intelligent layers** —
 helping ambitious businesses **scale, innovate, and lead**.
 
-[**🔎 Explore our work →**](https://github.com/PrimeLayerTech?tab=repositories)
+[**Explore our work &rarr;**](https://github.com/PrimeLayerTech?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 What we do
+## What we do
 
 A software **consultancy** and **product studio**. Two tracks that feed each other — client work sharpens our craft, and our own products prove it.
 
@@ -28,29 +28,30 @@ A software **consultancy** and **product studio**. Two tracks that feed each oth
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 Consulting
+### Consulting
 
 We embed with your team and engineer with intent.
 
-- 🧱 **Bespoke product & platform development**
-- 🤖 **AI & LLM integration** — practical, shipped
-- 🌐 **Web & mobile applications**
-- 🧭 **Technical strategy & architecture**
-- 🧑‍💻 **Team augmentation**
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Bespoke product & platform development**<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**AI & LLM integration** — practical, shipped<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Web & mobile applications**<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Technical strategy & architecture**<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Team augmentation**
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Products
+### Products
 
 Tools we build, use, and ship.
 
-**🧩 SpecMiner**
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**SpecMiner**
+
 Mine software features from any website using AI — save the HTML, extract clean specs to Markdown.
 
 `AI` · `Web Scraping` · `Spec Extraction`
 
-<sub>🔒 In active development</sub>
+![Status](https://img.shields.io/badge/Status-In%20active%20development-0CC060?style=flat-square)
 
 </td>
 </tr>
@@ -58,26 +59,26 @@ Mine software features from any website using AI — save the HTML, extract clea
 
 ---
 
-## 🧱 How we build
+## How we build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🧱 **Structured Systems** — order, architecture & strong foundations
-
-📈 **Scalability** — built to grow, adapt & evolve with you
-
-`</>` **Engineering Precision** — clean, technical, purposeful by design
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Structured Systems** — order, architecture & strong foundations<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Scalability** — built to grow, adapt & evolve with you<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Engineering Precision** — clean, technical, purposeful by design
 
 </td>
 <td width="50%" valign="top">
 
-🧩 **Modular Thinking** — flexible components working seamlessly
-
-🛡️ **Reliability & Trust** — a foundation you can depend on
-
-🤝 **Strategic Partnership** — a long-term partner, not just a vendor
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Modular Thinking** — flexible components working seamlessly<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Reliability & Trust** — a foundation you can depend on<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/bullet.png" width="14" />&nbsp;&nbsp;**Strategic Partnership** — a long-term partner, not just a vendor
 
 </td>
 </tr>
@@ -91,7 +92,7 @@ Mine software features from any website using AI — save the HTML, extract clea
 
 ---
 
-## 🛠️ Technologies we work with
+## Technologies we work with
 
 <div align="center">
 
@@ -168,13 +169,13 @@ Mine software features from any website using AI — save the HTML, extract clea
 
 ---
 
-## 💬 Work with us
+## Work with us
 
 <div align="center">
 
 Have a project, a product idea, or a problem worth solving?
 
-### Let's build something that scales. ⚡
+### Let's build something that scales.
 
 [![Website](https://img.shields.io/badge/primelayer.tech-0CC060?style=for-the-badge&logo=googlechrome&logoColor=white)](https://primelayer.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-PrimeLayerTech-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrimeLayerTech)
