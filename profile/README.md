@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/banner.png" alt="PrimeLayer.Tech — Consulting · Products · Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/PrimeLayerTech/.github/main/profile/assets/banner.png" alt="PrimeLayer — Software engineered in intelligent layers." width="100%" />
 
 <br/>
 <br/>
 
-![Consulting](https://img.shields.io/badge/Consulting-0CC060?style=for-the-badge)
-![Products](https://img.shields.io/badge/Products-333333?style=for-the-badge)
-![AI--Powered](https://img.shields.io/badge/AI--Powered-0CC060?style=for-the-badge)
+![Bespoke Software](https://img.shields.io/badge/Bespoke%20Software-0CC060?style=for-the-badge)
+![Consulting](https://img.shields.io/badge/Consulting-1A1A1A?style=for-the-badge)
+![Products](https://img.shields.io/badge/Products-0CC060?style=for-the-badge)
 
-### From idea to shipped — software that works.
+### Bespoke software. Intelligently layered.
 
-**PrimeLayer** *(PLT)* is a software **consultancy** and **product studio**.
-We partner with teams to design, engineer, and ship great software — and we build our own products along the way.
+**PrimeLayer** builds bespoke software systems in **intelligent layers** —
+helping ambitious businesses **scale, innovate, and lead**.
 
 [**🔎 Explore our work →**](https://github.com/PrimeLayerTech?tab=repositories)
 
@@ -22,7 +22,7 @@ We partner with teams to design, engineer, and ship great software — and we bu
 
 ## 🚀 What we do
 
-We run on two tracks that feed each other — client work sharpens our craft, and our own products prove it.
+A software **consultancy** and **product studio**. Two tracks that feed each other — client work sharpens our craft, and our own products prove it.
 
 <table>
 <tr>
@@ -30,9 +30,9 @@ We run on two tracks that feed each other — client work sharpens our craft, an
 
 ### 🤝 Consulting
 
-We embed with your team and move fast without breaking things.
+We embed with your team and engineer with intent.
 
-- 🧱 **Product & MVP development** — zero to launch
+- 🧱 **Bespoke product & platform development**
 - 🤖 **AI & LLM integration** — practical, shipped
 - 🌐 **Web & mobile applications**
 - 🧭 **Technical strategy & architecture**
@@ -58,13 +58,46 @@ Mine software features from any website using AI — save the HTML, extract clea
 
 ---
 
+## 🧱 How we build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧱 **Structured Systems** — order, architecture & strong foundations
+
+📈 **Scalability** — built to grow, adapt & evolve with you
+
+`</>` **Engineering Precision** — clean, technical, purposeful by design
+
+</td>
+<td width="50%" valign="top">
+
+🧩 **Modular Thinking** — flexible components working seamlessly
+
+🛡️ **Reliability & Trust** — a foundation you can depend on
+
+🤝 **Strategic Partnership** — a long-term partner, not just a vendor
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Architected with purpose · Built for growth · Engineered for impact**
+
+</div>
+
+---
+
 ## 🛠️ Technologies we work with
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI / LLMs](https://img.shields.io/badge/AI%20%2F%20LLMs-0CC060?style=for-the-badge&logo=openai&logoColor=white)
@@ -82,17 +115,17 @@ Mine software features from any website using AI — save the HTML, extract clea
 
 Have a project, a product idea, or a problem worth solving?
 
-### Let's build it. ⚡
+### Let's build something that scales. ⚡
 
-[![Website](https://img.shields.io/badge/Website-primelayer.tech-0CC060?style=for-the-badge&logo=googlechrome&logoColor=white)](https://primelayer.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-PrimeLayerTech-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrimeLayerTech)
+[![Website](https://img.shields.io/badge/primelayer.tech-0CC060?style=for-the-badge&logo=googlechrome&logoColor=white)](https://primelayer.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-PrimeLayerTech-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrimeLayerTech)
 <!-- 👇 Add your email when ready, then delete this comment:
-[![Email](https://img.shields.io/badge/Email-hello@primelayer.tech-0CC060?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![Email](https://img.shields.io/badge/hello@primelayer.tech-0CC060?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 -->
 
 <br/>
 <br/>
 
-<sub>© 2026 <strong>PrimeLayer.Tech</strong> · Built with ⚡ and care.</sub>
+<sub>© 2026 <strong>PrimeLayer</strong> · Bespoke software. Intelligently layered.</sub>
 
 </div>
